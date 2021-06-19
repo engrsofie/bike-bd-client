@@ -1,0 +1,17 @@
+.card-custom{
+    padding:30px !important;
+    border:none !important;
+    box-shadow: 4px 4px 10px gray !important;
+    border-radius:20px !important;
+}
+
+.img-div{
+    padding:20px;
+    background-color:#f1f1f1 !important;
+    border-radius: 20px !important;
+
+}
+
+.card-custom img{
+    height:200px;
+}

@@ -1,0 +1,10 @@
+.nav-brand{
+    font-weight: 600;
+    font-size: 24px !important;
+}
+.login-btn{
+    background-color: orange !important;
+    padding:10px 20px !important;
+    border-radius:10px;
+    color: blue !important;
+}

@@ -1,0 +1,27 @@
+.login{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.login button{
+    width: 400px;
+    height: 50px;
+    border: 1px solid rgb(94, 21, 21);
+    background-color: #094d06;
+    border-radius: 30px;
+    margin: 3px;
+}
+.login img{
+    width: 40px;
+    position: relative;
+    right: 90px;
+}
+.fb img{
+    width: 35px;
+    position: relative;
+    right: 80px;
+}
+.or{
+    text-align: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+.left{
+    
+    background-color: #E5734C !important;
+    height : 100vh !important;
+}
+.left-menu{
+    padding-top:50px !important;
+    padding-left: 50px !important;
+    color: White !important;
+}
+.menus{
+    color: white !important;
+    font-size:20px !important;
+    font-weight: 500 !important;
+    text-decoration: none !important;
+    /* margin: 50px !important; */
+}
+.menus:hover{
+    background-color:red !important;
+    padding:3px 25px !important;
+    border-radius: 15px !important;
+}
